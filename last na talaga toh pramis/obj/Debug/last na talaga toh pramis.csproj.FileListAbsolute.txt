@@ -1,0 +1,31 @@
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last na talaga toh pramis.exe.config
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last na talaga toh pramis.exe
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last na talaga toh pramis.pdb
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Guna.UI2.dll
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.AssemblyReference.cache
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form1.resources
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Properties.Resources.resources
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.GenerateResource.cache
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.CoreCompileInputs.cache
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.CopyComplete
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.exe
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.pdb
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form2.resources
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form3.resources
+C:\Users\JOJIE\source\repos\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.admin.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last na talaga toh pramis.exe.config
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last na talaga toh pramis.exe
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\last na talaga toh pramis.pdb
+F:\last na talaga toh pramis\last na talaga toh pramis\bin\Debug\Guna.UI2.dll
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.AssemblyReference.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.SuggestedBindingRedirects.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.admin.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form2.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form1.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Form3.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last_na_talaga_toh_pramis.Properties.Resources.resources
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.GenerateResource.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.CoreCompileInputs.cache
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.csproj.CopyComplete
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.exe
+F:\last na talaga toh pramis\last na talaga toh pramis\obj\Debug\last na talaga toh pramis.pdb
